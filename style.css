@@ -1,0 +1,17 @@
+
+#main-heading{
+    color: rgb(143, 214, 85);
+}
+
+
+#about_js_dom{
+    color: rgb(220, 74, 203);
+    font-style: italic;
+}
+
+
+.about_js{
+    background-color: yellow;
+    font-style: italic;
+    border-style: dotted;
+}
